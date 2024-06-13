@@ -1,6 +1,6 @@
 // variables
 
-let workTittle = document.getElementById('work');
+let workTittle = document.getElementById('focus');
 let breakTittle = document.getElementById('break');
 
 let workTime = 25;
